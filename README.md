@@ -2,6 +2,15 @@
 
 ![Image description](https://github.com/vasishtahd/Twitter-Bot-Detection-With-Graph-Analytics/blob/master/system_design.png)
 
+Installation Instructions:
+* Using Google Collab.
+  * Navigate to ```code/final_node2vec_shingle_implementation.ipynb```
+  * Click on the "Open in Collab" Link in the python Notebook.
+ * Local Machine.
+  * Run ```pip install requirements.txt``` to add all dependencies into you system.
+  * Update the Dataset links in the ```code/final_node2vec_shingle_implementation.ipynb```
+  * Run ```code/final_node2vec_shingle_implementation.ipynb``` onto your local and get the output
+
 Team Members:
 * Aditya Narayanan (1215232278)
 * Vasishta Harekal (1215278298)
