@@ -1,9 +1,9 @@
 # CSE 573: Semantic Web Mining 
-## Spring 2020
-
-## Group 4 - Project 6
+Spring 2020  <br>
+Group 4 - Project 6
 
 # Detection Of Fake Twitter Bots Through Unsupervised Learning
+
 ## Team Members:
 * Aditya Narayanan (1215232278)
 * Vasishta Harekal (1215278298)
@@ -12,8 +12,8 @@
 * Hang Zhao (1214868408)
 * Cheng Chen (1216700771)
 * Shankar Krishnamoorthy (1217214947)
-## System Architecture
 
+## System Architecture
 ![Image description](https://github.com/vasishtahd/Twitter-Bot-Detection-With-Graph-Analytics/blob/master/system_design.png)
 
 ## Installation Instructions:
@@ -21,13 +21,13 @@
   * Navigate to ```code/final_node2vec_shingle_implementation.ipynb```
   * Request Permission from one of the group meme
   * Click on the "Open in Collab" Link in the python Notebook.
- * Local Machine.
+* Local Machine.
   * Run ```pip install requirements.txt``` to add all dependencies into you system.
   * Update the Dataset links in the ```code/final_node2vec_shingle_implementation.ipynb```
   * Run ```code/final_node2vec_shingle_implementation.ipynb``` onto your local and get the output
 ##  Node2Vec
 *   In the Node2Vec Implementation, we have used the following parameters. <br>
-    ```node2vec = Node2Vec(G, dimensions=40, walk_length=8, num_walks=30, quiet=False, workers=5)```
+    ```node2vec = Node2Vec(G, dimensions=40, walk_length=8, num_walks=30)```
 
 ##  Shingle
 *  We have used the following parameters for Min-Hashing and Locality Sensitive Hashing <br>
