@@ -1,7 +1,6 @@
-# CSE 573: Semantic Web Mining 
-Spring 2020  <br>
-
-# Group 4 - Project 6 : Detection Of Fake Twitter Bots Through Unsupervised Learning
+# CSE 573: Semantic Web Mining : Detection Of Fake Twitter Bots Through Unsupervised Learning
+Spring 2020 - Group 4 - Project 6 
+# 
 
 ## Team Members:
 * Aditya Narayanan (1215232278)
